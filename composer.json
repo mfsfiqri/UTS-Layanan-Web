@@ -1,0 +1,17 @@
+{
+  "name": "mfsfiqri/uts-fiqri",
+  "description": "UTS Layanan Web",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Mfsfiqri\\UtsFiqri\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "mfsfiqri",
+      "email": "mfsfiqr@gmail.com"
+    }
+  ],
+  "require": {}
+}
